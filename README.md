@@ -58,7 +58,8 @@ The **"Payment Across Geo-Locations"** dashboard uncovers spatial and behavioral
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/brazilian-ecommerce-dashboard.git
+   git clone https://github.com/Anaghar27/Brazilian-E-Commerce-Data-Analysis-with-Tableau.git
+   cd Brazilian-E-Commerce-Data-Analysis-with-Tableau
 
 2. Open the Tableau workbook using:
 - Tableau Desktop or Tableau Public
