@@ -71,4 +71,4 @@ The **"Payment Across Geo-Locations"** dashboard uncovers spatial and behavioral
 
 ## 🌐 Data Source
 This dataset was sourced from Kaggle:
-👉 [Brazilian E-Commerce Public Dataset by Olist]([url](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
+👉 [Brazilian E-Commerce Public Dataset by Olist]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce])
